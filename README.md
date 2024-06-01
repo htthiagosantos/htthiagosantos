@@ -1,7 +1,9 @@
 ### Opa! htthiagosantos na área de JAVA/Back-end👋
 
- System.out.println("Hoje em dia estou me aprofundando na linguagem java e Atrás de uma oportunidade para aprender e por em prática);
-- No momento estou estudando o basico do JAVA em busca de me aperfeiçoar, planejando minha tragetória de Back End sem desistir!
-- Java para Web!
-- ⚡ Um otimo mês a todos e boa sorte a nós!
-- 📫 Contato: thiagosantos.tech1590@gmail.com
+![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![https://github.com/htthiagosantos](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+![htthiagosantos](https://github-readme-stats.vercel.app/api?username=htthiagosantos&show_icons=true&theme=radical)
